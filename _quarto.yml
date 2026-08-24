@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Your Name"
+  description: "Academic portfolio and professional website"
+  site-url: "https://yourusername.github.io"
+  navbar:
+    background: "#102a43"
+    foreground: "#f7fafc"
+    title: "Your Name"
+    right:
+      - text: "Intro"
+        href: "#intro"
+      - text: "Research"
+        href: "#research"
+      - text: "Publications"
+        href: "#publications"
+      - text: "Teaching"
+        href: "#teaching"
+      - text: "Music"
+        href: "#music"
+      - icon: github
+        href: "https://github.com/yourusername"
+        aria-label: "GitHub"
+  page-footer:
+    left: "(c) 2026 Your Name"
+    right:
+      - icon: envelope
+        href: "mailto:you@example.com"
+        aria-label: "Email"
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
