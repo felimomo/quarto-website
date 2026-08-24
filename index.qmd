@@ -1,0 +1,109 @@
+---
+title: "Your Name"
+---
+
+<div id="intro" class="hero-section">
+
+::: {.hero-copy}
+<p class="eyebrow">Researcher / Educator / Musician</p>
+
+# Making ideas useful.
+
+I am a [position or field] at [institution], where I study [short description of your work]. My work sits at the intersection of rigorous research, thoughtful teaching, and creative practice.
+
+<div class="hero-links">
+[Get in touch](mailto:you@example.com){.button .button-primary}
+[Download CV](files/cv.pdf){.button .button-secondary}
+</div>
+:::
+
+::: {.hero-image}
+![Professional headshot](images/headshot.jpeg){fig-alt="Professional headshot"}
+<p class="image-note">Professional headshot</p>
+:::
+
+</div>
+
+## Research {#research}
+
+My research asks how [central question or theme]. I am especially interested in work that connects [area one] with [area two], and in translating research into meaningful outcomes for [community or audience].
+
+<div class="research-grid">
+
+::: {.research-card}
+<span class="card-number">01</span>
+
+### Research area
+
+A short description of your primary research area, current project, or research group.
+:::
+
+::: {.research-card}
+<span class="card-number">02</span>
+
+### Research area
+
+A short description of a second theme, method, or collaboration.
+:::
+
+::: {.research-card}
+<span class="card-number">03</span>
+
+### Research area
+
+A short description of the broader impact or application of your work.
+:::
+
+</div>
+
+## Publications {#publications}
+
+Selected publications and works in progress. For a complete list, please see my [CV](files/cv.pdf).
+
+::: {.publication-list}
+**Your Name**, Coauthor Name. "Title of an article or book chapter." *Journal or Venue*, 2026. [DOI](https://doi.org/)
+
+**Your Name**, Coauthor Name. "Title of a second publication." *Journal or Venue*, 2025. [PDF](files/publication.pdf)
+
+**Your Name**. “Title of a work in progress.” *Forthcoming*.
+:::
+
+## Teaching {#teaching}
+
+I teach [subjects or disciplines] with an emphasis on curiosity, clear communication, and learning by doing. My classroom is a place where students can develop both technical confidence and the habit of asking better questions.
+
+<div class="teaching-layout">
+
+::: {.teaching-highlight}
+### Courses
+
+**Course title** / Semester / Year  
+Brief description of the course and its approach.
+
+**Course title** / Semester / Year  
+Brief description of the course and its approach.
+:::
+
+::: {.teaching-highlight}
+### Teaching philosophy
+
+I believe students learn best when they are invited into the process of discovery. I design assignments that make room for experimentation, collaboration, and reflection.
+:::
+
+</div>
+
+## Music {#music}
+
+Outside of my academic work, I make music as [artist name / ensemble]. This creative practice keeps me attentive to listening, rhythm, and the importance of making space for surprise.
+
+::: {.music-panel}
+<div>
+<p class="eyebrow">Listen / watch / follow</p>
+<h3>Creative work belongs here.</h3>
+</div>
+<div class="music-links">
+[Bandcamp](https://bandcamp.com){.button .button-secondary}
+[YouTube](https://youtube.com){.button .button-secondary}
+[Instagram](https://instagram.com){.button .button-secondary}
+</div>
+:::
