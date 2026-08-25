@@ -95,6 +95,11 @@ p { max-width: 700px; color: var(--muted); }
 .research-card p, .teaching-highlight p { font-size: .95rem; }
 .card-number { color: var(--accent); font-size: .78rem; font-weight: 700; }
 
+.skill-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.2rem; margin-top: 2rem; }
+.skill-card { padding: 1.5rem; border: 1px solid var(--line); background: var(--white); }
+.skill-card h4 { margin: 0 0 .8rem; font-size: 1.05rem; }
+.skill-card p { margin: .8rem 0 0; font-size: .9rem; }
+
 .publication-list { margin-top: 2rem; padding: 1.5rem 0; border-top: 1px solid var(--line); }
 .publication-list p { padding: 1rem 0; border-bottom: 1px solid var(--line); }
 .publication-list a, main a { color: var(--accent); }
@@ -110,7 +115,7 @@ footer { padding: 2rem max(5vw, 1.5rem); border-top: 1px solid var(--line); font
 @media (max-width: 760px) {
   .hero-section { grid-template-columns: 1fr; min-height: auto; padding-top: 4rem; }
   .hero-image { max-width: 360px; margin: 0 auto; }
-  .research-grid, .teaching-layout { grid-template-columns: 1fr; }
+  .research-grid, .teaching-layout, .skill-grid { grid-template-columns: 1fr; }
   .music-panel { align-items: flex-start; flex-direction: column; }
   h2 { margin-top: 5rem; }
 }

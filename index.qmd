@@ -84,28 +84,59 @@ k-means clustering, and semi-definite programming optimization.
 it has been crucial for me to provide informative and actionable data visualizations every step of the way in my collaborations.
 I believe that data visualization is the ground on which one can build successful, cross-functional collaborations.
 
-**Agentic AI.** I am rather new to the use of agentic AI tools in the creation of projects, but I am very excited about it!
-This website was deployed using the Copilot CLI to set up a CI/CD GitHub workflow. 
-I have also used the Copilot CLI to [debug and optimize](https://github.com/felimomo/LotkaVolterraRL/agents?q=is%3Aclosed+author%3A%40me) an ongoing reinforcement learning project.
+**Additional tools.** I also use agentic AI tools to support software development:
+this website was deployed with the Copilot CLI, which I have also used to
+[debug and optimize](https://github.com/felimomo/LotkaVolterraRL/agents?q=is%3Aclosed+author%3A%40me)
+an ongoing reinforcement learning project.
 
-### Languages
+### Data science and machine learning toolkit
 
-- Python: 10+ years
-- R: 4 years
-- PostreSQL / DuckDB: 2 years
-- Fortran, C++: I have worked on and off in these languages whenever a project called for it.
-- Matlab: Worked with a [numerical representation theory](https://replab.github.io/web/) codebase for a research project for 2 years.
+::: {.skill-grid}
 
-### Tech stack
+::: {.skill-card}
+#### Modeling
 
-Here I'll list the tech stack I often rely on for my research and teaching. It's mostly centered around Python, but includes other languages:
+Python, PyTorch, Scikit-learn, TensorFlow, Gymnasium, Stable Baselines, Ray/RLlib, Optuna
 
-**ML/Deep learning:** Darts, Gymnasium, Optuna, PyTorch, Ray/RLLib, Scikit-Learn, Scikit-Optimize, Stable Baselines, TensorFlow.  
-**Data wrangling:** DuckDB, GeoPandas, ibis, Numpy, Pandas, PosgreSQL, rasterio/rioxarray, SciPy, xarray, tidyverse.  
-**Data visualization:** ggplot, plotnine, plotly, seaborn.  
-**Environment management:** pyenv, uv.  
-**Cloud:** odc.stac, pystac_client.  
-**CI/CD:** pytest.  
+Reinforcement learning, deep learning, model optimization, time-series modeling, and statistical inference.
+:::
+
+::: {.skill-card}
+#### Data and scientific computing
+
+NumPy, Pandas, SciPy, xarray, DuckDB, PostgreSQL, GeoPandas, rasterio/rioxarray, ibis, tidyverse
+
+Reproducible pipelines for scientific, geospatial, and observational data.
+:::
+
+::: {.skill-card}
+#### Production and engineering
+
+Git, pytest, GitHub Actions, Docker, uv, pyenv, SQL
+
+Testing, CI/CD, reproducible environments, databases, and deployment of research software.
+:::
+
+::: {.skill-card}
+#### Visualization and communication
+
+Matplotlib, Seaborn, Plotly, ggplot2, Plotnine
+
+Clear visual explanations for technical and cross-functional audiences.
+:::
+
+::: {.skill-card}
+#### Programming foundations
+
+R, C++, Fortran, Matlab
+
+Additional experience developed through statistical, numerical, and scientific-computing projects.
+:::
+
+:::
+
+**Selected applications:** built reinforcement-learning systems for fisheries and conservation,
+Bayesian wildlife-abundance pipelines, cloud-native geospatial workflows, and ML teaching projects.
 
 ## Research {#research}
 
