@@ -96,41 +96,31 @@ T. Connor, **F. Montealegre-Mora**, B.J. Saxon, J. Camarena, D. Sarna-Wijcicki, 
 
 ## Teaching {#teaching}
 
-This semester I'm teaching Advanced Computational Physics, a lecture on ML-based sentiment analysis for social scientists, and I'm co-lecturer on a fishery science graduate lecture.
-Moreover, I am teaching first and second year general physics courses covering basic mechanics, fluid dynamics, thermodynamics and electrodynamics.
-
 <div class="teaching-layout">
 
 ::: {.teaching-highlight}
 ### Courses
 
-**Course title** / Semester / Year  
-Brief description of the course and its approach.
+**Advanced computational physics** / II-2026 
+Numerical spectral analysis for PDEs, Optimization algorithms, Machine learning and deep learning.
+For advanced physics undergrads
 
-**Course title** / Semester / Year  
-Brief description of the course and its approach.
+**Algorithmic textual analysis** / II-2026  
+Introduction to statistical and deep learning approaches for textual and sentiment analysis.
+For professional social scientists.
+
+**Tropical Fishery Science and Management** / II-2026
+Co-lecturer teaching stock assessment statistical modelling and ML methods in fishery science.
+For grad students in the [GIACT](https://www.sep.ucr.ac.cr/posgrado-gestion-areas-costeras-maestria) master's degree.
+
+**General Physics I & II** / II-2026
+Lectures for first and second year engineering undergrads covering introductory mechanics, fluid dynamics, wave mechanics, thermodynamics and electrostatics.
 :::
 
-::: {.teaching-highlight}
-### Teaching philosophy
 
-I believe students learn best when they are invited into the process of discovery. I design assignments that make room for experimentation, collaboration, and reflection.
-:::
 
 </div>
 
 ## Music {#music}
 
-Outside of my academic work, I make music as [artist name / ensemble]. This creative practice keeps me attentive to listening, rhythm, and the importance of making space for surprise.
-
-::: {.music-panel}
-<div>
-<p class="eyebrow">Listen / watch / follow</p>
-<h3>Creative work belongs here.</h3>
-</div>
-<div class="music-links">
-[Bandcamp](https://bandcamp.com){.button .button-secondary}
-[YouTube](https://youtube.com){.button .button-secondary}
-[Instagram](https://instagram.com){.button .button-secondary}
-</div>
-:::
+Besides my academic work, I love playing music! Here I'll post songs from several of my musical projects.
