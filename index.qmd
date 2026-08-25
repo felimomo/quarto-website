@@ -60,7 +60,7 @@ Here I summarize my software and data-related skills.
 
 ### Library-specific experience
 
-**Deep learning:** Darts, Gymnasium, PyTorch, Ray/RLLib, Scikit-Learn, Scikit-Optimize Stable Baselines, TensorFlow.  
+**Deep learning:** Darts, Gymnasium, PyTorch, Ray/RLLib, Scikit-Learn, Scikit-Optimize, Stable Baselines, TensorFlow.  
 **Data wrangling:** GeoPandas, Pandas, xarray, tidyverse.  
 **Data visualization:** ggplot, plotnine, plotly, seaborn.  
 **Other numerics:** Numpy, Scipy.  
