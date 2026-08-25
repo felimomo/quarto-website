@@ -69,23 +69,26 @@ of [wildlife abundance](https://doi.org/10.1002/ece3.72355) from limited and noi
 Particularly, this project addresses the question in the context of *indigenous data sovereignty*.
 :::
 
+### Clifford group representations
+
+The Clifford group is an immensely important mathematical object in quantum computing. 
+Understanding its representation theory can unlock applications across the board, from quantum device characterization to novel quantum protocols.
+In this project I have led the development of several approaches to characterize this representation theory.
+
 </div>
 
 ## Publications {#publications}
 
-Selected publications and works in progress. For a complete list, please see my [CV](files/cv.pdf).
+Selected publications and works in progress. For a complete list, please visit my [Google Scholar](https://scholar.google.com/citations?user=4xcoxEcAAAAJ&hl=en) profile.
 
 ::: {.publication-list}
-**Your Name**, Coauthor Name. "Title of an article or book chapter." *Journal or Venue*, 2026. [DOI](https://doi.org/)
-
-**Your Name**, Coauthor Name. "Title of a second publication." *Journal or Venue*, 2025. [PDF](files/publication.pdf)
-
-**Your Name**. “Title of a work in progress.” *Forthcoming*.
+**F. Montealegre-Mora**, C. Cahill, C. Walters, C. Boettiger. (2025) Using machine learning to inform harvest control rule design in complex fishery settings. *Fish and Fisheries.*
 :::
 
 ## Teaching {#teaching}
 
-I teach [subjects or disciplines] with an emphasis on curiosity, clear communication, and learning by doing. My classroom is a place where students can develop both technical confidence and the habit of asking better questions.
+This semester I'm teaching Advanced Computational Physics, a lecture on ML-based sentiment analysis for social scientists, and I'm co-lecturer on a fishery science graduate lecture.
+Moreover, I am teaching first and second year general physics courses covering basic mechanics, fluid dynamics, thermodynamics and electrodynamics.
 
 <div class="teaching-layout">
 
