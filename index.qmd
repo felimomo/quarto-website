@@ -37,7 +37,56 @@ There I led the establishment of a research program at the intersection of data 
 
 </div>
 
-## Software and data skills
+## Data science and machine learning toolkit
+
+::: {.skill-grid}
+
+::: {.skill-card}
+#### Modeling
+
+Python, PyTorch, Scikit-learn, TensorFlow, Gymnasium, Stable Baselines, Ray/RLlib, Optuna
+
+Reinforcement learning, deep learning, model optimization, time-series modeling, and statistical inference.
+:::
+
+::: {.skill-card}
+#### Data and scientific computing
+
+NumPy, Pandas, SciPy, xarray, DuckDB, PostgreSQL, GeoPandas, rasterio/rioxarray, ibis, tidyverse
+
+Reproducible pipelines for scientific, geospatial, and observational data.
+:::
+
+::: {.skill-card}
+#### Production and engineering
+
+Git, pytest, GitHub Actions, Docker, uv, pyenv, SQL
+
+Testing, CI/CD, reproducible environments, databases, and deployment of research software.
+:::
+
+::: {.skill-card}
+#### Visualization and communication
+
+Matplotlib, Seaborn, Plotly, ggplot2, Plotnine
+
+Clear visual explanations for technical and cross-functional audiences.
+:::
+
+::: {.skill-card}
+#### Programming foundations
+
+R, C++, Fortran, Matlab
+
+Additional experience developed through statistical, numerical, and scientific-computing projects.
+:::
+
+:::
+
+**Selected applications:** built reinforcement-learning systems for fisheries and conservation,
+Bayesian wildlife-abundance pipelines, cloud-native geospatial workflows, and ML teaching projects.
+
+### How I use the toolkit
 
 Through my research projects and teaching I've focused on bringing modern software development practices to academic work,
 promoting the reproducibility and reusability of my work.
@@ -89,54 +138,6 @@ this website was deployed with the Copilot CLI, which I have also used to
 [debug and optimize](https://github.com/felimomo/LotkaVolterraRL/agents?q=is%3Aclosed+author%3A%40me)
 an ongoing reinforcement learning project.
 
-### Data science and machine learning toolkit
-
-::: {.skill-grid}
-
-::: {.skill-card}
-#### Modeling
-
-Python, PyTorch, Scikit-learn, TensorFlow, Gymnasium, Stable Baselines, Ray/RLlib, Optuna
-
-Reinforcement learning, deep learning, model optimization, time-series modeling, and statistical inference.
-:::
-
-::: {.skill-card}
-#### Data and scientific computing
-
-NumPy, Pandas, SciPy, xarray, DuckDB, PostgreSQL, GeoPandas, rasterio/rioxarray, ibis, tidyverse
-
-Reproducible pipelines for scientific, geospatial, and observational data.
-:::
-
-::: {.skill-card}
-#### Production and engineering
-
-Git, pytest, GitHub Actions, Docker, uv, pyenv, SQL
-
-Testing, CI/CD, reproducible environments, databases, and deployment of research software.
-:::
-
-::: {.skill-card}
-#### Visualization and communication
-
-Matplotlib, Seaborn, Plotly, ggplot2, Plotnine
-
-Clear visual explanations for technical and cross-functional audiences.
-:::
-
-::: {.skill-card}
-#### Programming foundations
-
-R, C++, Fortran, Matlab
-
-Additional experience developed through statistical, numerical, and scientific-computing projects.
-:::
-
-:::
-
-**Selected applications:** built reinforcement-learning systems for fisheries and conservation,
-Bayesian wildlife-abundance pipelines, cloud-native geospatial workflows, and ML teaching projects.
 
 ## Research {#research}
 
