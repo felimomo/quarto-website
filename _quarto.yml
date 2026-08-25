@@ -3,9 +3,9 @@ project:
   output-dir: _site
 
 website:
-  title: "Your Name"
+  title: "Felipe Montealegre Mora, PhD"
   description: "Academic portfolio and professional website"
-  site-url: "https://yourusername.github.io"
+  site-url: "https://felimomo.github.io/quarto-website"
   navbar:
     background: "#102a43"
     foreground: "#f7fafc"
@@ -22,13 +22,13 @@ website:
       - text: "Music"
         href: "#music"
       - icon: github
-        href: "https://github.com/yourusername"
+        href: "https://github.com/felimomo"
         aria-label: "GitHub"
   page-footer:
-    left: "(c) 2026 Your Name"
+    left: "(c) 2026 Felipe Montealegre. Created with the Copilot CLI."
     right:
       - icon: envelope
-        href: "mailto:you@example.com"
+        href: "mailto:felipe.montealegre@ucr.ac.cr"
         aria-label: "Email"
 
 format:
