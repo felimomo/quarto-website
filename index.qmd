@@ -1,5 +1,5 @@
 ---
-title: "Your Name"
+title: "Felipe Montealegre Mora, PhD"
 ---
 
 <div id="intro" class="hero-section">
@@ -7,13 +7,23 @@ title: "Your Name"
 ::: {.hero-copy}
 <p class="eyebrow">Researcher / Educator / Musician</p>
 
-# Making ideas useful.
+# Data-Driven Science for Social & Environmental Good
 
-I am a [position or field] at [institution], where I study [short description of your work]. My work sits at the intersection of rigorous research, thoughtful teaching, and creative practice.
+I am a Lecturer in Computational Physics at Universidad de Costa Rica, focusing on interdisciplinary applications of AI (broadly understood) to science.
+After working on theoretical **quantum computing** during my PhD at the University of Cologne, Germany, my research interests shifted towards more applied and interdisciplinary topics.
+My driving question throughout this process has been *how can a mathy guy like me have a positive impact on the world?*
+
+This motivating principle led me to work as a postdoc UC Berkeley's Schmid Center for Data Science & the Environment, and the Department of Enviornmental Science, Policy and Management.
+Here I led the establishment of a research program at the intersection of data science, machine learning and quantitative ecology.
+My projects included using **reinforcement learning** to guide decision-making in complex ecological problems like
+[fishery harvest quotas](https://github.com/boettiger-lab/rl4fisheries),
+optimal resource use in [invasive species management](https://github.com/boettiger-lab/rl4greencrab) and
+and [multi-species food-web stabilization](https://github.com/felimomo/LotkaVolterraRL).
+
 
 <div class="hero-links">
-[Get in touch](mailto:you@example.com){.button .button-primary}
-[Download CV](files/cv.pdf){.button .button-secondary}
+[Get in touch](felipe.montealegremora@gmail.com){.button .button-primary}
+[Download CV](files/FelipeMontealegreMora-CV.pdf){.button .button-secondary}
 </div>
 :::
 
