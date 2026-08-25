@@ -69,13 +69,19 @@ of [wildlife abundance](https://doi.org/10.1002/ece3.72355) from limited and noi
 Particularly, this project addresses the question in the context of *indigenous data sovereignty*.
 :::
 
+::: {.research-card}
+<span class="card-number">03</span>
+
 ### Clifford group representations
 
 The Clifford group is an immensely important mathematical object in quantum computing. 
 Understanding its representation theory can unlock applications across the board, from quantum device characterization to novel quantum protocols.
 In this project I have led the development of several approaches to characterize this representation theory.
-
+:::
 </div>
+
+I'm also dabbling in other projects like on statistical inference for heavy ion collision experiments with my close friend and collaborator Oscar García.
+Similarly, I occasionally enjoy contributing to the open source ecosystem on, e.g., [MyST](https://github.com/felimomo/MyST-RefSort) or improving [the experience](https://github.com/felimomo/FormateadorListasEmatricula) of other lecturers in generating useful class list documents.
 
 ## Publications {#publications}
 
