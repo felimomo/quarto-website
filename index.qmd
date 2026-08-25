@@ -104,19 +104,19 @@ T. Connor, **F. Montealegre-Mora**, B.J. Saxon, J. Camarena, D. Sarna-Wijcicki, 
 ::: {.teaching-highlight}
 ### Courses
 
-**Advanced computational physics** / II-2026 
+**Advanced computational physics** / II-2026 /
 Numerical spectral analysis for PDEs, Optimization algorithms, Machine learning and deep learning.
 For advanced physics undergrads
 
-**Algorithmic textual analysis** / II-2026  
+**Algorithmic textual analysis** / II-2026 /
 Introduction to statistical and deep learning approaches for textual and sentiment analysis.
 For professional social scientists.
 
-**Tropical Fishery Science and Management** / II-2026
+**Tropical Fishery Science and Management** / II-2026 /
 Co-lecturer teaching stock assessment statistical modelling and ML methods in fishery science.
 For grad students in the [GIACT](https://www.sep.ucr.ac.cr/posgrado-gestion-areas-costeras-maestria) master's degree.
 
-**General Physics I & II** / II-2026
+**General Physics I & II** / II-2026 /
 Lectures for first and second year engineering undergrads covering introductory mechanics, fluid dynamics, wave mechanics, thermodynamics and electrostatics.
 :::
 
