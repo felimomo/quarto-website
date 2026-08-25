@@ -5,7 +5,7 @@ title: "Felipe Montealegre Mora, PhD"
 <div id="intro" class="hero-section">
 
 ::: {.hero-copy}
-<p class="eyebrow">Researcher | Data Scientist | Educator</p>
+<p class="eyebrow">Physics | Data Science | AI</p>
 
 # Data-Driven Science 
 ### For Social & Environmental Good
@@ -92,9 +92,11 @@ Selected publications and works in progress. For a complete list, please visit m
 
 T. Connor, **F. Montealegre-Mora**, B.J. Saxon, J. Camarena, D. Sarna-Wijcicki, M. de Bruyn, K.L. Calhoun, C.C. Martinez, E. Tripp. (2025). Indigenous Knowledge and Community‐Derived Counts Produce Robust Wildlife Population Estimates: Roosevelt Elk in Karuk Aboriginal Territory. *Ecology & Evolution.*
 
-**F. Montealegre-Mora**, D. Gross. Duality theory for Clifford tensor powers. *J. Mathematical Physics.*
+**F. Montealegre-Mora**, D. Gross. (2025) Duality theory for Clifford tensor powers. *J. Mathematical Physics.*
 
-**F. Montealegre-Mora**, M. Lapeyrolerie, M. Chapman, A.G. Keller, C. Boettiger. Pretty darn good control: when are approximate solutions better than approximate models. *Bulletin of Mathematical Biology*.
+**F. Montealegre-Mora**, M. Lapeyrolerie, M. Chapman, A.G. Keller, C. Boettiger. (2023) Pretty darn good control: when are approximate solutions better than approximate models. *Bulletin of Mathematical Biology*.
+
+D. Ellis-Soto et al. (incl. **Montealegre-Mora** in core organizing team). (2026) Aligning biodiversity AI with social, historical, and governance dimensions is critical for conservation science. *Submitted to One Earth.*
 :::
 
 ## Teaching {#teaching}
