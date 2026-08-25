@@ -8,7 +8,7 @@ title: "Felipe Montealegre Mora, PhD"
 <p class="eyebrow">Researcher | Data Scientist | Educator</p>
 
 # Data-Driven Science 
-For Social & Environmental Good
+### For Social & Environmental Good
 
 ## Intro to me
 
