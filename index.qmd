@@ -5,7 +5,7 @@ title: "Felipe Montealegre Mora, PhD"
 <div id="intro" class="hero-section">
 
 ::: {.hero-copy}
-<p class="eyebrow">Researcher / Educator / Musician</p>
+<p class="eyebrow">Researcher | Data Scientist | Educator</p>
 
 # Data-Driven Science 
 ## For Social & Environmental Good
