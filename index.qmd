@@ -8,14 +8,20 @@ title: "Felipe Montealegre Mora, PhD"
 <p class="eyebrow">Researcher | Data Scientist | Educator</p>
 
 # Data-Driven Science 
-## For Social & Environmental Good
+For Social & Environmental Good
 
-I am a Lecturer in Computational Physics at Universidad de Costa Rica, focusing on interdisciplinary applications of AI (broadly understood) to science.
+## Intro to me
+
+Hello there! I am a Lecturer in Physics at Universidad de Costa Rica, focusing on interdisciplinary applications of AI (broadly understood) to science.
 After working on theoretical **quantum computing** during my PhD at the University of Cologne, Germany, my research interests shifted towards more applied and interdisciplinary topics.
 My driving question throughout this process has been *how can a mathy guy like me have a positive impact on the world?*
 
 This motivating principle led me to work as a postdoc UC Berkeley's Schmid Center for Data Science & the Environment, and the Department of Enviornmental Science, Policy and Management.
-Here I led the establishment of a research program at the intersection of data science, machine learning and quantitative ecology.
+There I led the establishment of a research program at the intersection of data science, machine learning and quantitative ecology.
+
+**Back home.** I came back to Costa Rica in 2025, where I joined the School of Physics at Universidad de Costa Rica as a lecturer.
+In this role I have led the creation of lectures on AI and data science applications in physics, social science and coastal management.
+
 My projects included using **reinforcement learning** to guide decision-making in complex ecological problems like
 [fishery harvest quotas](https://github.com/boettiger-lab/rl4fisheries),
 optimal resource use in [invasive species management](https://github.com/boettiger-lab/rl4greencrab) and
