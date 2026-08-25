@@ -39,8 +39,54 @@ There I led the establishment of a research program at the intersection of data 
 
 ## Software and data skills
 
-Through my research projects and teaching I've gained considerable experience with modern software development and data science practices.
-Here I summarize my software and data-related skills.
+Through my research projects and teaching I've focused on bringing modern software development practices to academic work,
+promoting the reproducibility and reusability of my work.
+Here I summarize my software and data-related skills I have gained with this approach.
+
+**Reinforcement learning.** 
+I've extensively worked in [developing reinforcement learning](https://github.com/boettiger-lab/approx-model-or-approx-soln)
+approaches in environmental science contexts such as [fishery management](https://github.com/boettiger-lab/rl4fisheries),
+[invasive species management](https://github.com/boettiger-lab/rl4greencrab),
+[caribou conservation](https://github.com/boettiger-lab/rl4caribou),
+and [dynamical multispecies stabilization](https://github.com/felimomo/LotkaVolterraRL).
+Throughout this work I have become experienced with building custom neural network models in **PyTorch**, training feed-forward and recurrent networks and generating CI/CD pipelines for **unit testing**.
+I moreover am leading the creation of an [SQL database](https://github.com/boettiger-lab/sql4fisheries) to enhance the reproducibility of our team's fishery RL work.
+
+**Statistical inference, fullstack development.** 
+Through my collaboration with Karuk wildlife managers and researchers, 
+I have become experienced in statistical inference pipelines in R and Python, 
+as well as in the **deployment** of graphical apps through GitHub Actions, 
+and in setting up computer vision tools for wildlife monitoring.
+In this project I pivoted from creating code internally within my research team 
+to developing a backend and frontend for an external stakeholder.
+The code repositories are private to protect indigenous data sovereignty, 
+however our first paper is published [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.72355)!
+There, we used Bayesian hierarchical modelling and MCMC to infer accurate estimates of the abundance and homerange of elk in the study area
+using community observational data.
+
+**Cloud-native geospatial data processing.** 
+For a few months I contributed to a [project](https://github.com/boettiger-lab/nasa-topst-env-justice/tree/main) developing a quantitative geospatial approach to environmental justice.
+Geospatial data is typically large and thus hosted in the cloud, usually in AWS S3 buckets, 
+thus quantitative geospatial analyses are more naturally suited to cloud-native approaches even though they are
+commonly implemented locally in academic work.
+This project seeked to close this gap, providing tutorials of how to efficiently process geospatial data in 
+environmental research contexts in a cloud-native manner.
+To maximize the reproducibility of this work, we containerized our pipeline.
+
+**ML in teaching.** In teaching the [*Advanced computational physics*](https://github.com/felimomo/FisicaComputacionalAvanzada) 
+lecture at UCR, I have become experienced with a variety of ML algorithms which,
+while they were adjacent to my work, had not shown up in my research projects.
+For example I have become experienced in setting up practical workshops on using SciKit-Learn, SciKit-Optimize and PyTorch
+to run ML classification tasks, logistic regression, ridge regression, support vector machine optimization,
+k-means clustering, and semi-definite programming optimization.
+
+**Data visualization.** Given that I am a mathy guy who works with both physicists, ecologists, wildlife managers and citizen science data, 
+it has been crucial for me to provide informative and actionable data visualizations every step of the way in my collaborations.
+I believe that data visualization is the ground on which one can build successful, cross-functional collaborations.
+
+**Agentic AI.** I am rather new to the use of agentic AI tools in the creation of projects, but I am very excited about it!
+This website was deployed using the Copilot CLI to set up a CI/CD GitHub workflow. 
+I have also used the Copilot CLI to [debug and optimize](https://github.com/felimomo/LotkaVolterraRL/agents?q=is%3Aclosed+author%3A%40me) an ongoing reinforcement learning project.
 
 ### Languages
 - Python: 10+ years
