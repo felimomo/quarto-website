@@ -22,12 +22,6 @@ There I led the establishment of a research program at the intersection of data 
 **Back home.** I came back to Costa Rica in 2025, where I joined the School of Physics at Universidad de Costa Rica as a lecturer.
 In this role I have led the creation of lectures on AI and data science applications in physics, social science and coastal management.
 
-My projects included using **reinforcement learning** to guide decision-making in complex ecological problems like
-[fishery harvest quotas](https://github.com/boettiger-lab/rl4fisheries),
-optimal resource use in [invasive species management](https://github.com/boettiger-lab/rl4greencrab) and
-and [multi-species food-web stabilization](https://github.com/felimomo/LotkaVolterraRL).
-
-
 <div class="hero-links">
 [Get in touch](felipe.montealegremora@gmail.com){.button .button-primary}
 [Download CV](files/FelipeMontealegreMora-CV.pdf){.button .button-secondary}
@@ -43,32 +37,36 @@ and [multi-species food-web stabilization](https://github.com/felimomo/LotkaVolt
 
 ## Research {#research}
 
-My research asks how [central question or theme]. I am especially interested in work that connects [area one] with [area two], and in translating research into meaningful outcomes for [community or audience].
+My research line uses a variety of **deep learning**, **data science** and **applied statistics** to address hard scientific questions.
 
 <div class="research-grid">
 
 ::: {.research-card}
 <span class="card-number">01</span>
 
-### Research area
+### Reinforcement learning
 
-A short description of your primary research area, current project, or research group.
+to guide decision-making in complex ecological problems like
+[fishery harvest quotas](https://github.com/boettiger-lab/rl4fisheries),
+optimal resource use in [invasive species management](https://github.com/boettiger-lab/rl4greencrab) and
+and [multi-species food-web stabilization](https://github.com/felimomo/LotkaVolterraRL).
 :::
 
 ::: {.research-card}
 <span class="card-number">02</span>
 
-### Research area
+### Statistical inference
 
-A short description of a second theme, method, or collaboration.
+of [wildlife abundance](https://doi.org/10.1002/ece3.72355) from limited and noisy observations.
 :::
 
 ::: {.research-card}
 <span class="card-number">03</span>
 
-### Research area
+### AI-enhanced ecology
 
-A short description of the broader impact or application of your work.
+[How can](https://ecoviz-ai.github.io) ecologists effectively and safely use AI-powered tools to provide data-driven support on conservation decisions?
+Particularly, this project addresses the question in the context of *indigenous data sovereignty*.
 :::
 
 </div>
