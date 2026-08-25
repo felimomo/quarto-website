@@ -89,20 +89,12 @@ This website was deployed using the Copilot CLI to set up a CI/CD GitHub workflo
 I have also used the Copilot CLI to [debug and optimize](https://github.com/felimomo/LotkaVolterraRL/agents?q=is%3Aclosed+author%3A%40me) an ongoing reinforcement learning project.
 
 ### Languages
+
 - Python: 10+ years
 - R: 4 years
 - PostreSQL / DuckDB: 2 years
 - Fortran, C++: I have worked on and off in these languages whenever a project called for it.
 - Matlab: Worked with a [numerical representation theory](https://replab.github.io/web/) codebase for a research project for 2 years.
-
-### Software & Data skills
-- CI/CD: 4 years of experience with GitHub actions and GitLab workflows. Developed unit tests for reinforcement learning research projects, deployed a wildlife data-management app to an executable working with stakeholders, deployed this personal website through github actions.
-- Agentic AI: I am new to this, but very excited to work with the Copilot CLI to launch this website and to debug a reinforcement learning codebase.
-- SQL: In a current research project I am developing an [SQL database](https://github.com/boettiger-lab/sql4fisheries) of reinforcement learning agent evaluations in fishery contexts.
-- Docker: in several research projects I have containerized the workflow to improve reproducibility.
-- Statistical inference: I have performed MCMC posterior estimation and MLE within wildlife projects using R, R-Nimble and Python.
-- Data visualization: Throughout many research projects I have become experienced with data visualization tools in both Python and R.
-- Deep learning: experienced with models in reinforcement learning, supervised learning (classification, support vector machines, logistic and ridge regression), computer vision, k-means clustering and principal component analysis.
 
 ### Tech stack
 
