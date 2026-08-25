@@ -7,7 +7,8 @@ title: "Felipe Montealegre Mora, PhD"
 ::: {.hero-copy}
 <p class="eyebrow">Researcher / Educator / Musician</p>
 
-# Data-Driven Science for Social & Environmental Good
+# Data-Driven Science 
+## For Social & Environmental Good
 
 I am a Lecturer in Computational Physics at Universidad de Costa Rica, focusing on interdisciplinary applications of AI (broadly understood) to science.
 After working on theoretical **quantum computing** during my PhD at the University of Cologne, Germany, my research interests shifted towards more applied and interdisciplinary topics.
