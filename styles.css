@@ -11,11 +11,26 @@
 
 body {
   margin: 0;
+  padding-inline: clamp(12px, 2vw, 28px);
   color: var(--ink);
   background: var(--paper);
   font-family: "DM Sans", sans-serif;
   font-size: 17px;
   line-height: 1.7;
+}
+
+#title-block-header {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+
+#title-block-header .title {
+  margin: 0;
+  font-family: "Playfair Display", serif;
+  font-size: clamp(1.35rem, 4vw, 3.25rem);
+  line-height: 1.15;
+  white-space: nowrap;
 }
 
 .navbar {
