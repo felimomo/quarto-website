@@ -60,7 +60,7 @@ Reproducible pipelines for scientific, geospatial, and observational data.
 ::: {.skill-card}
 #### Production and engineering
 
-Git, pytest, GitHub Actions, Docker, uv, pyenv, SQL
+Git, pytest, GitHub Actions, GitLab Workflows, Docker, uv, pyenv, SQL
 
 Testing, CI/CD, reproducible environments, databases, and deployment of research software.
 :::
