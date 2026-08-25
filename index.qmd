@@ -58,12 +58,16 @@ Here I summarize my software and data-related skills.
 - Data visualization: Throughout many research projects I have become experienced with data visualization tools in both Python and R.
 - Deep learning: experienced with models in reinforcement learning, supervised learning (classification, support vector machines, logistic and ridge regression), computer vision, k-means clustering and principal component analysis.
 
-### Library-specific experience
+### Tech stack
 
-**Deep learning:** Darts, Gymnasium, PyTorch, Ray/RLLib, Scikit-Learn, Scikit-Optimize, Stable Baselines, TensorFlow.  
-**Data wrangling:** GeoPandas, Pandas, xarray, tidyverse.  
+Here I'll list the tech stack I often rely on for my research and teaching. It's mostly centered around Python, but includes other languages:
+
+**ML/Deep learning:** Darts, Gymnasium, Optuna, PyTorch, Ray/RLLib, Scikit-Learn, Scikit-Optimize, Stable Baselines, TensorFlow.  
+**Data wrangling:** DuckDB, GeoPandas, ibis, Numpy, Pandas, PosgreSQL, rasterio/rioxarray, SciPy, xarray, tidyverse.  
 **Data visualization:** ggplot, plotnine, plotly, seaborn.  
-**Other numerics:** Numpy, Scipy.  
+**Environment management:** pyenv, uv.  
+**Cloud:** odc.stac, pystac_client.  
+**CI/CD:** pytest.  
 
 ## Research {#research}
 
