@@ -29,8 +29,8 @@ and [multi-species food-web stabilization](https://github.com/felimomo/LotkaVolt
 :::
 
 ::: {.hero-image}
-![Professional headshot](images/headshot.jpeg){fig-alt="Professional headshot"}
-<p class="image-note">Professional headshot</p>
+![Professional headshot](images/headshot.jpeg){fig-alt=""}
+<p class="image-note">Me in a beautiful garden!</p>
 :::
 
 </div>
