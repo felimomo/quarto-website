@@ -89,8 +89,11 @@ Selected publications and works in progress. For a complete list, please visit m
 
 ::: {.publication-list}
 **F. Montealegre-Mora**, C. Cahill, C. Walters, C. Boettiger. (2025) Using machine learning to inform harvest control rule design in complex fishery settings. *Fish and Fisheries.*  
+
 T. Connor, **F. Montealegre-Mora**, B.J. Saxon, J. Camarena, D. Sarna-Wijcicki, M. de Bruyn, K.L. Calhoun, C.C. Martinez, E. Tripp. (2025). Indigenous Knowledge and Community‐Derived Counts Produce Robust Wildlife Population Estimates: Roosevelt Elk in Karuk Aboriginal Territory. *Ecology & Evolution.*
+
 **F. Montealegre-Mora**, D. Gross. Duality theory for Clifford tensor powers. *J. Mathematical Physics.*
+
 **F. Montealegre-Mora**, M. Lapeyrolerie, M. Chapman, A.G. Keller, C. Boettiger. Pretty darn good control: when are approximate solutions better than approximate models. *Bulletin of Mathematical Biology*.
 :::
 
