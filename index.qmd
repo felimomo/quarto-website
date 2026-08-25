@@ -22,7 +22,7 @@ My driving question throughout this process has been *how can a mathy guy like m
 This motivating principle led me to work as a postdoc UC Berkeley's Schmid Center for Data Science & the Environment, and the Department of Enviornmental Science, Policy and Management.
 There I led the establishment of a research program at the intersection of data science, machine learning and quantitative ecology.
 
-**Open to work.** I am now excited to bring my skills to the private sector as a data scientist or machine learning engineer!
+**Open to work.** I am now excited to transition from academia to the industry as a data scientist or machine learning engineer. I am interested in on-site, hybrid and remote options in Costa Rica, Spain and Italy.
 
 <div class="hero-links">
 [Get in touch](felipe.montealegremora@gmail.com){.button .button-primary}
