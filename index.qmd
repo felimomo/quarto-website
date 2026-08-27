@@ -83,10 +83,7 @@ Additional experience developed through statistical, numerical, and scientific-c
 
 :::
 
-**Selected applications:** built reinforcement-learning systems for fisheries and conservation,
-Bayesian wildlife-abundance pipelines, cloud-native geospatial workflows, and ML teaching projects.
-
-### How I use the toolkit
+### Data toolkit in my work
 
 Through my research projects and teaching I've focused on bringing modern software development practices to academic work,
 promoting the reproducibility and reusability of my work.
@@ -129,7 +126,7 @@ For example I have become experienced in setting up practical workshops on using
 to run ML classification tasks, logistic regression, ridge regression, support vector machine optimization,
 k-means clustering, and semi-definite programming optimization.
 
-**Data visualization.** Given that I am a mathy guy who works with both physicists, ecologists, wildlife managers and citizen science data, 
+**Data visualization.** Given that I am a mathy guy who works with both physicists and biological scientists, 
 it has been crucial for me to provide informative and actionable data visualizations every step of the way in my collaborations.
 I believe that data visualization is the ground on which one can build successful, cross-functional collaborations.
 
@@ -138,6 +135,23 @@ this website was deployed with the Copilot CLI, which I have also used to
 [debug and optimize](https://github.com/felimomo/LotkaVolterraRL/agents?q=is%3Aclosed+author%3A%40me)
 an ongoing reinforcement learning project.
 
+# Mentoring
+
+Mentoring is an important aspect of my professional profile.
+Knowledge sharing is powerful in industry and academia, and good mentoring can vitalize teams' productivity, especially in cross-functional and interdisciplinary teams.
+These are the research projects I have had the priviledge of mentoring:
+
+- **Kendall Salazar, U of Costa Rica.** Research project on RL for multi-species Lotka-Volterra harvesting problems.
+- **Aaron Sanabria, U of Costa Rica.** Research project on MCMC and statistical estimation for heavy-ion collision data.
+- **Maxwell Tanguchi-King, UC Berkeley.** Internship on software development and indigenous data sovereignty in biodiversity monitoring.
+- **Nithya Appannagaari, UC Berkeley.** Internship on software development and indigenous data sovereignty in biodiversity monitoring. 
+- **Claire Liu, UC Berkeley.** B.Sc. thesis on predictability of extreme rain events in the SF Bay Area. Undergrad research assistantship on RL approaches to partially observable population dynamics control problems.
+- **Maya Nalliah, UC Berkeley.** Undergrad research assistantship on RL approaches to highly stochastic and non-stationary population dynamics control problems.
+- **Felix Hoeddinghaus, U of Cologne.** B.Sc. thesis on discrete algebraic groups arising in a quantum computing context.
+- **Angelos Bampounis, U of Cologne.** M.Sc. thesis on representation theory of the single-qubit Clifford group.
+- **Paula Belzig, U of Cologne & ETH Zurich.** M.Sc. thesis on the Stabilizer de Finetti theorem and applications to quantum communication.
+- **Tobias Hartmann, U of Cologne.** B.Sc. thesis on state-independent contextuality for few-qubit systems.
+- **Stefan Schmit, U of Cologne.** B.Sc. thesis on parametric noise on quantum control problems.
 
 ## Research {#research}
 
