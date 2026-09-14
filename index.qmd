@@ -53,7 +53,7 @@ PyTorch, Scikit-learn, Darts, OpenAI Gymnasium, Stable Baselines, Ray/RLlib, Opt
 
 ::: {.skill-card}
 #### Data and scientific computing
-NumPy, Pandas, SciPy, Geospatial data processing (xarray, geopandas, pystac, odc-stac, rasterio/rioxarray), ibis, tidyverse, NetworkX
+NumPy, Pandas, SciPy, Distributed computing (Ray, PySpark) Geospatial data processing (xarray, geopandas, pystac, odc-stac, rasterio/rioxarray), ibis, tidyverse, NetworkX
 :::
 
 ::: {.skill-card}
