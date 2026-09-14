@@ -37,7 +37,7 @@ There I led the establishment of a research program at the intersection of data 
 
 </div>
 
-## Data science and machine learning toolkit
+## Software toolkig
 
 ::: {.skill-grid}
 
@@ -53,7 +53,7 @@ PyTorch, Scikit-learn, Darts, OpenAI Gymnasium, Stable Baselines, Ray/RLlib, Opt
 
 ::: {.skill-card}
 #### Data and scientific computing
-NumPy, Pandas, SciPy, Geospatial data processing (xarray, geopandas, pystac, odc-stac, rasterio/rioxarray), ibis, tidyverse
+NumPy, Pandas, SciPy, Geospatial data processing (xarray, geopandas, pystac, odc-stac, rasterio/rioxarray), ibis, tidyverse, NetworkX
 :::
 
 ::: {.skill-card}
