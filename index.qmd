@@ -48,7 +48,7 @@ Python (expert), R (advanced), SQL (DuckDB, PostgreSQL), C++, MatLAB
 
 ::: {.skill-card}
 #### Modeling & Optimization
-PyTorch, Scikit-learn, Darts, OpenAI Gymnasium, Stable Baselines, Ray/RLlib, Optuna, Scikit-optimize, cvxPy
+PyTorch, Scikit-learn, Darts, OpenAI Gymnasium, Stable Baselines, Ray/RLlib, Optuna, Scikit-optimize, CVXPY
 :::
 
 ::: {.skill-card}
