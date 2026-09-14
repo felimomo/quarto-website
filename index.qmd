@@ -19,7 +19,7 @@ Through my lectures I seek to give students practical experience with tools from
 After working on theoretical **quantum computing** during my PhD at the University of Cologne, Germany, my research interests shifted towards more applied and interdisciplinary topics.
 My driving question throughout this process has been *how can a mathy guy like me have a positive impact on the world?*
 
-This motivating principle led me to work as a postdoc UC Berkeley's Schmid Center for Data Science & the Environment, and the Department of Enviornmental Science, Policy and Management.
+This motivating principle led me to work as a postdoc UC Berkeley's Schmidt Center for Data Science & the Environment, and the Department of Enviornmental Science, Policy and Management.
 There I led the establishment of a research program at the intersection of data science, machine learning and quantitative ecology.
 
 **Open to work.** I am now excited to transition from academia to the industry as a data scientist or machine learning engineer. I am interested in on-site, hybrid and remote options in Costa Rica, Spain and Italy.
@@ -42,43 +42,33 @@ There I led the establishment of a research program at the intersection of data 
 ::: {.skill-grid}
 
 ::: {.skill-card}
-#### Modeling
+#### Programming foundations
+Python (expert), R (advanced), SQL, C++, MatLAB
+:::
 
-Python, PyTorch, Scikit-learn, TensorFlow, Gymnasium, Stable Baselines, Ray/RLlib, Optuna
-
-Reinforcement learning, deep learning, model optimization, time-series modeling, and statistical inference.
+::: {.skill-card}
+#### Modeling & Optimization
+PyTorch, Scikit-learn, Darts, Gymnasium, Stable Baselines, Ray/RLlib, Optuna, Scikit-optimize, cvxPy
 :::
 
 ::: {.skill-card}
 #### Data and scientific computing
-
-NumPy, Pandas, SciPy, xarray, DuckDB, PostgreSQL, GeoPandas, rasterio/rioxarray, ibis, tidyverse
-
-Reproducible pipelines for scientific, geospatial, and observational data.
+NumPy, Pandas, SciPy, Geospatial data processing (xarray, geopandas, pystac, odc-stac, rasterio/rioxarray), SQL (DuckDB, PostgreSQL), ibis, tidyverse
 :::
 
 ::: {.skill-card}
 #### Production and engineering
-
-Git, pytest, GitHub Actions, GitLab Workflows, Docker, uv, pyenv
-
-Testing, CI/CD, reproducible environments, databases, and deployment of research software.
+Git, pytest, CI/CD (GitHub Actions, GitLab Workflows), Docker, uv, pyenv, Amazon Athena / S3 / SageMaker, IaC (Terraform)
 :::
 
 ::: {.skill-card}
 #### Visualization and communication
-
 Matplotlib, Seaborn, Plotly, ggplot2, Plotnine
-
-Clear visual explanations for technical and cross-functional audiences.
 :::
 
 ::: {.skill-card}
-#### Programming foundations
-
-R, C++, Fortran, Matlab
-
-Additional experience developed through statistical, numerical, and scientific-computing projects.
+#### Statistical modeling & inference
+R-nimble (Bayesian modeling, MCMC), PyMC (MCMC)
 :::
 
 :::
