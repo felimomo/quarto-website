@@ -129,8 +129,9 @@ Mentoring is an important aspect of my professional profile.
 Knowledge sharing is powerful in industry and academia, and good mentoring can vitalize teams' productivity, especially in cross-functional and interdisciplinary teams.
 These are the research projects I have had the priviledge of mentoring:
 
+- **Dylan Navarro, U of Costa Rica.** Research project on numerical integration of the Balitsky-Kovchegov model of gluon production in heavy-ion collisions.
 - **Kendall Salazar, U of Costa Rica.** Research project on RL for multi-species Lotka-Volterra harvesting problems.
-- **Aaron Sanabria, U of Costa Rica.** Research project on MCMC and statistical estimation for heavy-ion collision data.
+- **Aaron Sanabria, U of Costa Rica.** Research project on MCMC simulate of color-glass condensate initial states for heavy-ion collisions.
 - **Maxwell Tanguchi-King, UC Berkeley.** Internship on software development and indigenous data sovereignty in biodiversity monitoring.
 - **Nithya Appannagaari, UC Berkeley.** Internship on software development and indigenous data sovereignty in biodiversity monitoring. 
 - **Claire Liu, UC Berkeley.** B.Sc. thesis on predictability of extreme rain events in the SF Bay Area. Undergrad research assistantship on RL approaches to partially observable population dynamics control problems.
